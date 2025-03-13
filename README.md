@@ -1,5 +1,5 @@
 ---
-# Video Game Sales Analysis
+# **LevelUp: Uncovering the Highs and Lows in Video Game Sales History**
 ---
 ## Table of Contents
 ---
